@@ -1,2 +1,1 @@
-# my blog
-+ [About Me](about)
+# mazznoer.github.io
